@@ -85,6 +85,34 @@ Bugs
 
 Please report bugs to https://github.com/WeblateOrg/weblate/issues.
 
+Contributors
+------------
+
+.. image:: https://sourcerer.io/fame/nijel/WeblateOrg/weblate/images/0
+  :target: https://sourcerer.io/fame/nijel/WeblateOrg/weblate/links/0
+  :alt: 0
+.. image:: https://sourcerer.io/fame/nijel/WeblateOrg/weblate/images/1
+  :target: https://sourcerer.io/fame/nijel/WeblateOrg/weblate/links/1
+  :alt: 1
+.. image:: https://sourcerer.io/fame/nijel/WeblateOrg/weblate/images/2
+  :target: https://sourcerer.io/fame/nijel/WeblateOrg/weblate/links/2
+  :alt: 2
+.. image:: https://sourcerer.io/fame/nijel/WeblateOrg/weblate/images/3
+  :target: https://sourcerer.io/fame/nijel/WeblateOrg/weblate/links/3
+  :alt: 3
+.. image:: https://sourcerer.io/fame/nijel/WeblateOrg/weblate/images/4
+  :target: https://sourcerer.io/fame/nijel/WeblateOrg/weblate/links/4
+  :alt: 4
+.. image:: https://sourcerer.io/fame/nijel/WeblateOrg/weblate/images/5
+  :target: https://sourcerer.io/fame/nijel/WeblateOrg/weblate/links/5
+  :alt: 5
+.. image:: https://sourcerer.io/fame/nijel/WeblateOrg/weblate/images/6
+  :target: https://sourcerer.io/fame/nijel/WeblateOrg/weblate/links/6
+  :alt: 6
+.. image:: https://sourcerer.io/fame/nijel/WeblateOrg/weblate/images/7
+  :target: https://sourcerer.io/fame/nijel/WeblateOrg/weblate/links/7
+  :alt: 7
+
 License
 -------
 
